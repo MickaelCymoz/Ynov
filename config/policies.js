@@ -28,7 +28,7 @@ module.exports.policies = {
 
    '*': 'authenticated',
     AuthController : {
-      'login' : []0
+      'login' : []
     }
   /***************************************************************************
   *                                                                          *
